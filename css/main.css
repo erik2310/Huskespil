@@ -11,7 +11,7 @@ h1 {
     color: white;
 }
 
-div {
+.boardDiv {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -31,4 +31,35 @@ img:hover {
     border-style: solid;
     border-width: 2px;
     border-color: white;
+}
+
+a {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    display: inline;   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigationBar {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    width: 450px;
 }
