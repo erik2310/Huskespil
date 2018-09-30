@@ -1,2 +1,2 @@
 # Huskespil
-Huskespil lavet i HTML og CSS.
+Huskespil lavet i HTML, CSS og Javascript.
