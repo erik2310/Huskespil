@@ -19,6 +19,10 @@ h2 {
     margin: 0px 0px;
 }
 
+#github {
+    margin-left: 410px;
+}
+
 .aboutMe {
     margin-top: 50px;
     margin-left: auto;
@@ -51,7 +55,7 @@ img:hover {
     border-color: white;
 }
 
-a {
+.navigationBarLinks {
     margin-left: 20px;
     margin-right: 20px;
     text-decoration: none;
@@ -60,7 +64,7 @@ a {
     color: white;
 }
 
-a:hover {
+.navigationBarLinks:hover {
     text-decoration: underline;
 }
 
